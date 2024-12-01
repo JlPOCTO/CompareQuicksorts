@@ -1,0 +1,157 @@
+Iteration 1
+   Time used (in ms) for sequential: 29323
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10561
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 14154
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11296
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 11642
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 11964
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 11479
+   Is array sorted? Checker says: true
+Iteration 2
+   Time used (in ms) for sequential: 28716
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10946
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 12919
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 10591
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 11577
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 11471
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10782
+   Is array sorted? Checker says: true
+Iteration 3
+   Time used (in ms) for sequential: 29536
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 11548
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 12988
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11171
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 11793
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 12369
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10514
+   Is array sorted? Checker says: true
+Iteration 4
+   Time used (in ms) for sequential: 29254
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10679
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 15213
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11170
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 12129
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 12599
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 11020
+   Is array sorted? Checker says: true
+Iteration 5
+   Time used (in ms) for sequential: 28537
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10849
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 14532
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11829
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 12164
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 11409
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10956
+   Is array sorted? Checker says: true
+Iteration 6
+   Time used (in ms) for sequential: 28454
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10262
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 14344
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 13533
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 12007
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 12303
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10791
+   Is array sorted? Checker says: true
+Iteration 7
+   Time used (in ms) for sequential: 28125
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10859
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 14816
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11910
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 11797
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 12612
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 11074
+   Is array sorted? Checker says: true
+Iteration 8
+   Time used (in ms) for sequential: 27322
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 11923
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 12248
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 10605
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 11536
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 11458
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10392
+   Is array sorted? Checker says: true
+Iteration 9
+   Time used (in ms) for sequential: 28468
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10380
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 14162
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 10979
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 13260
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 12501
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10504
+   Is array sorted? Checker says: true
+Iteration 10
+   Time used (in ms) for sequential: 29484
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 10000: 10653
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 10000: 13352
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 100000: 11535
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 100000: 12069
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel fork-join with batch 1000000: 13340
+   Is array sorted? Checker says: true
+   Time used (in ms) for parallel coroutines with batch 1000000: 10814
+   Is array sorted? Checker says: true
+Average time for quicksortSequential: 28721.9
+Average time for quicksortParallelFJ with batch 1000: 10866.0
+Average time for quicksortParallelFJ with batch 10000: 11461.9
+Average time for quicksortParallelFJ with batch 100000: 12202.6
+Average time for quicksortParallelCor with batch 1000: 13872.8
+Average time for quicksortParallelCor with batch 10000: 11997.4
+Average time for quicksortParallelCor with batch 100000: 10832.6

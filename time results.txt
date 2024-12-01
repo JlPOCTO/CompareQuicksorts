@@ -1,0 +1,7 @@
+Average time for quicksortSequential: 28721.9
+Average time for quicksortParallelFJ with batch 1000: 10866.0
+Average time for quicksortParallelFJ with batch 10000: 11461.9
+Average time for quicksortParallelFJ with batch 100000: 12202.6
+Average time for quicksortParallelCor with batch 1000: 13872.8
+Average time for quicksortParallelCor with batch 10000: 11997.4
+Average time for quicksortParallelCor with batch 100000: 10832.6
